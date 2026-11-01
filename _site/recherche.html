@@ -310,7 +310,6 @@ Analyses des comportements migratoires dans la colonne d’eau selon le cycle ny
 <p>Formation aux méthodes d’analyse multivariée appliquées à des jeux de données écologiques marines.</p>
 </div>
 </div>
-<p>:::::</p>
 
 
 </section>
@@ -388,7 +387,7 @@ Analyses des comportements migratoires dans la colonne d’eau selon le cycle ny
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/Solane-cacao\.github\.io\/solane-cacao\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

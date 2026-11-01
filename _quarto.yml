@@ -22,5 +22,8 @@ format:
     theme: solar
     css: styles.css
     toc: false
+    include-in-header:
+      text: |
+           <meta name="google-site-verification" content="TON_CODE" />
 
 editor: visual
