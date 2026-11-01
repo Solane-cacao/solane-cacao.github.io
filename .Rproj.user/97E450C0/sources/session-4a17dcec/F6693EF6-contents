@@ -24,6 +24,6 @@ format:
     toc: false
     include-in-header:
       text: |
-           <meta name="google-site-verification" content="TON_CODE" />
+           <meta name="google-site-verification" content="2uAGAehxwssGtpyWSldjWxbLgVXM6RiMbp43l2iifmo" />
 
 editor: visual
