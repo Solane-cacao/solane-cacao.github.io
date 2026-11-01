@@ -1,0 +1,184 @@
+---
+title: "Recherche & Travaux"
+toc: false
+css: styles.css
+---
+
+::: vision-intro
+La conservation marine se traduit comme un exercice à la croisée des sciences naturelles et humaines : comprendre les dynamiques écologiques ne suffit pas si l'on ignore les savoirs et pratiques des populations qui en dépendent. La mise en place d'actions ne peut se faire qu'avec l'accord et l'intégration des populations concernées. Mon travail explore l'articulation entre écologie, gestion des pêches et intégration du savoir local, au service d'outils de conservation concrets comme des Aires Marines Protégées (AMP), des suivis de populations, une gestion partagée.
+:::
+
+## Axes de recherche
+
+::::::: axes-banners
+<details class="axe-banner" style="background-image: url(&#39;images/ecologie.jpg&#39;);">
+
+<summary>[Écologie des populations & dynamiques spatiales]{.axe-title}</summary>
+
+::: axe-detail
+Comprendre la répartition, l'abondance, la diversité et les dynamiques spatiales d'un milieu permet d'en saisir les mécanismes et d'anticiper la façon dont des pressions extérieures (pêche, aménagement du littoral, changement climatique) sont susceptibles de l'affecter. Aucun outil n'étant exhaustif, les approches suivantes se complètent :
+
+### Observation directe
+
+#### UVS / UVC : comptages visuels en plongée
+
+Comptage direct réalisé par des plongeurs sur le terrain (Underwater Visual Survey / Census). Il donne des métriques d'abondance, de diversité et éventuellement de taille des individus. Méthode simple et éprouvée, elle dépend cependant de la profondeur, du temps de plongée et de l'observateur. Elle sous-estime les espèces craintives ou rares, et les grands prédateurs évitent souvent les plongeurs.
+
+#### BRUVS / stéréo-BRUVS (caméras appâtées)
+
+Les Baited Remote Underwater Video Systems sont bien adaptés aux grands prédateurs mobiles comme les requins et les raies, que les plongeurs voient peu et dont l'observation reste complexe. Les stéréo-caméras donnent aussi la taille. Le biais vient de l'appât, qui attire ou exclut certaines espèces : les données obtenues sont donc orientées vers certains groupes.
+
+#### Drones télépilotés et ROV (Remotely Operated Vehicles)
+
+Survoler une zone par drone permet de réaliser des comptages en surface (requins, raies, tortues en eaux claires) et de cartographier des habitats. Les ROV offrent un bon visuel des zones trop profondes ou dangereuses pour la plongée, mais présentent des biais d'observation comparables à ceux de l'observation directe (évitement, détectabilité).
+
+### Approches moléculaires
+
+#### ADN environnemental (eDNA)
+
+L'ADN environnemental permet d'étudier un milieu de façon non invasive : grâce à un échantillon d'eau, on récupère l'ADN laissé par les organismes sans les capturer ni même les observer. Il est particulièrement utile pour les espèces rares, discrètes ou difficiles d'accès.
+
+Deux stratégies coexistent. La détection ciblée (qPCR, ddPCR) recherche une espèce précise à partir d'un gène cible : très sensible, elle convient aux espèces protégées ou invasives. À l'inverse, le métabarcoding (ci-dessous) permet d'inventorier l'ensemble d'une communauté sans a priori sur les espèces présentes.
+
+Cet outil a ses limites. Il repose sur des bases de données génomiques de référence suffisamment complètes pour couvrir la diversité étudiée, ce qui n'est pas toujours le cas. La qualité de l'échantillonnage est également déterminante : l'ADN se dégradant et se dispersant dans l'eau, des protocoles rigoureux sont indispensables. Enfin, il ne permet pas d'obtenir des mesures d'abondance fiables.
+
+#### Métabarcoding
+
+Le métabarcoding consiste à amplifier par PCR un marqueur génétique commun à un large groupe d'organismes, puis à séquencer l'ensemble des fragments obtenus. Ces séquences, comparées aux bases de référence, permettent d'identifier les espèces présentes, ce qui donne accès à la richesse et à la composition d'une communauté.
+
+Le nombre de lectures fournit une information semi-quantitative sur les abondances relatives, mais elle reste à interpréter avec prudence : l'efficacité d'amplification varie selon les espèces et les amorces utilisées. À cela s'ajoutent les risques de faux positifs (contaminations) et de faux négatifs (espèces présentes mais non détectées), que l'on limite grâce aux réplicats, aux témoins négatifs et à des modèles statistiques qui tiennent compte de la détectabilité.
+
+#### RADseq (Restriction-site Associated DNA sequencing)
+
+Le RADseq repose sur des enzymes de restriction qui découpent le génome en fragments. On séquence uniquement ceux situés à proximité des sites de coupure, ce qui donne accès à plusieurs milliers de marqueurs SNP (Single Nucleotide Polymorphism) répartis sur tout le génome, sans nécessiter de génome de référence.
+
+On travaille ici sur l'ADN d'individus (fragment de nageoire, biopsie). La question posée est celle de la structure des populations : stocks distincts, connectivité entre sites, flux de gènes et éventuellement signatures d'adaptation locale. Ces informations sont précieuses pour dimensionner un réseau d'aires protégées ou définir des unités de gestion cohérentes avec la biologie de l'espèce.
+
+La méthode demande un ADN de bonne qualité, ce qui impose des protocoles de conservation rigoureux. L'interprétation dépend en outre fortement du plan d'échantillonnage (nombre d'individus et de sites, période).
+
+### Suivi d'individus
+
+Suivre des individus permet de répondre à des questions que les inventaires ne traitent pas : où vivent-ils, où se déplacent-ils, combien sont-ils et combien survivent.
+
+#### Capture-recapture
+
+Cette méthode permet d'estimer l'abondance, la survie et le recrutement à partir de la fréquence à laquelle les mêmes individus sont réobservés. Le marquage peut être physique (bagues, marques externes) ou naturel. Les estimations dépendent de la probabilité de recapture, qui doit être modélisée.
+
+#### Photo-identification
+
+Les motifs propres à chaque individu suffisent à le reconnaître sans le capturer : aileron dorsal d'un requin ou d'un dauphin, nageoire caudale d'une baleine, taches du requin-baleine ou de la raie manta, écailles faciales d'une tortue marine. La fiabilité des estimations dépend de la qualité des photos et de l'effort d'observation.
+
+#### Télémétrie acoustique
+
+Elle consiste à implanter ou fixer un émetteur sur l'animal, détecté par un réseau de récepteurs fixes. On obtient de longues séries de présence et de déplacements, ce qui en fait un outil de choix pour évaluer l'usage d'une aire protégée ou la connectivité entre sites. La portée de détection est de quelques centaines de mètres selon les conditions, et l'information se limite aux zones équipées.
+
+#### Balises satellites et biologging
+
+Ces outils suivent les animaux sur de grandes distances, y compris hors de tout réseau de récepteurs. Le compromis se fait sur la résolution spatiale, plus faible pour certaines balises, et sur le coût, qui limite le nombre d'individus équipés.
+
+### Acoustique
+
+#### Hydroacoustique active
+
+Des échosondeurs ou sonars émettent un signal et analysent son écho pour détecter et quantifier ce qui se trouve dans la colonne d'eau. Cette méthode est employée pour estimer la biomasse et la distribution de poissons pélagiques ou de bancs, sur de vastes surfaces et de façon continue. L'identification des espèces reste son point faible : elle nécessite des validations par pêches expérimentales ou observations directes.
+
+#### Acoustique passive (PAM)
+
+Le Passive Acoustic Monitoring consiste à écouter. Des hydrophones autonomes, déployés pendant des semaines ou des mois, enregistrent les sons produits par les cétacés (chants, clics d'écholocation), par certains poissons (chorus de reproduction, agrégations de ponte) et par les activités humaines (trafic maritime, bruit). La méthode est non invasive et adaptée aux suivis de long terme, mais elle donne surtout la présence et l'activité plutôt que l'abondance. Elle dépend aussi de bibliothèques de sons de référence, incomplètes pour beaucoup d'espèces, et produit de très gros volumes de données à traiter.
+:::
+
+</details>
+
+<details class="axe-banner" style="background-image: url(&#39;images/local.jpg&#39;);">
+
+<summary>[Savoir local & gestion partagée]{.axe-title}</summary>
+
+::: axe-detail
+Les pêcheurs et les communautés littorales détiennent des connaissances fines (zones, saisons, évolution des stocks, comportement des espèces) sur des échelles de temps et d'espace que les suivis scientifiques couvrent rarement. Les intégrer améliore à la fois la qualité des données et l'acceptation des mesures de gestion.
+
+### Recueillir les savoirs
+
+#### Entretiens, enquêtes et cartographie participative
+
+Entretiens semi-directifs et questionnaires permettent de documenter les savoirs écologiques locaux : zones de pêche, frayères, changements observés, rencontres avec des espèces sensibles. La cartographie participative, où les pêcheurs localisent eux-mêmes ces éléments sur une carte, rend ces informations directement exploitables en SIG. Ces données comportent des biais (mémoire, représentativité, confiance envers l'enquêteur) et gagnent à être croisées avec des données scientifiques.
+
+#### Science participative
+
+Carnets de pêche volontaires, signalements d'observations ou marquages participatifs multiplient les points de collecte à faible coût et impliquent directement les usagers dans la production de connaissances.
+
+### Co-construire la gestion
+
+#### Cogestion et gouvernance partagée
+
+Associer les usagers à la définition des zonages, des règles d'accès et des dispositifs de suivi améliore leur légitimité et leur respect. Ce principe se retrouve dans des modèles très différents, des prud'homies de pêche méditerranéennes aux aires marines gérées localement (LMMA) du Pacifique. Cela suppose une présence de terrain dans la durée, la restitution des résultats aux communautés et la reconnaissance de savoirs qui ne sont ni homogènes ni exempts de rapports de force au sein d'un même groupe d'usagers.
+:::
+
+
+</details>
+
+<details class="axe-banner" style="background-image: url(&#39;images/aires.jpg&#39;);">
+
+<summary>[Aires Marines Protégées & outils de conservation]{.axe-title}</summary>
+
+::: axe-detail
+Une aire marine protégée n'est utile que si elle est bien conçue, effectivement gérée et évaluée. L'enjeu est de passer d'espaces protégés sur le papier à des outils dont l'efficacité est mesurée.
+
+### Concevoir
+
+#### Planification systématique de la conservation
+
+Elle vise à identifier les zones prioritaires (habitats, nourriceries, agrégations de reproduction, corridors de déplacement) en minimisant le coût pour les usagers. Des outils comme Marxan ou prioritizr combinent les données de distribution des espèces, de connectivité et de pression humaine, ce qui fait le lien direct avec les méthodes d'écologie des populations décrites plus haut.
+
+#### Niveaux et formes de protection
+
+Réserves intégrales, zones de protection forte, cantonnements, fermetures saisonnières, restrictions d'engins : chaque outil répond à un objectif différent. L'efficacité repose aussi sur la connectivité entre sites, d'où l'intérêt de raisonner en réseau plutôt qu'en aires isolées.
+
+### Évaluer
+
+#### Efficacité et gestion adaptative
+
+Les suivis comparent l'état du milieu avant et après la mise en place de la mesure, à l'intérieur et à l'extérieur de la zone (approche BACI), à partir d'indicateurs comme la biomasse, la richesse ou la taille des individus. Ils permettent aussi d'observer l'effet réserve et le débordement vers les zones adjacentes. Le principal écueil reste l'écart entre la protection réglementaire et sa mise en œuvre : sans moyens de surveillance et de suivi de long terme, la réglementation seule ne garantit pas l'effet attendu.
+:::
+
+</details>
+
+<details class="axe-banner" style="background-image: url(&#39;images/modelisation.jpg&#39;);">
+
+<summary>[Analyse de données & modélisation]{.axe-title}</summary>
+
+::: axe-detail
+Les données écologiques sont hétérogènes, bruitées et incomplètes. Il s'agit d'en tirer des indicateurs clairs, cartographiables et assortis d'une mesure d'incertitude, exploitables par les gestionnaires.
+
+### Analyses multivariées
+
+Ordinations (ACP, PCoA, NMDS, RDA) et tests comme la PERMANOVA permettent de décrire la structure des communautés et d'identifier les facteurs qui la façonnent (habitat, pression de pêche, protection). Ils s'appliquent aussi bien aux comptages en plongée qu'aux données de métabarcoding.
+
+### Modélisation
+
+Les modèles de distribution d'espèces (GAM, GLMM, MaxEnt, BRT) relient les observations aux variables environnementales pour prédire où une espèce est susceptible de se trouver. Les modèles d'occupancy corrigent la détectabilité imparfaite, précieux pour l'ADNe ou les caméras appâtées. Les modèles de mouvement et de capture-recapture exploitent quant à eux les données de suivi d'individus.
+
+### Analyse spatiale et reproductibilité
+
+Les SIG (QGIS, packages R comme sf et terra) servent à cartographier les densités, les zones de chevauchement entre espèces et activités humaines, ou les hotspots à protéger en priorité. Les chaînes de traitement de séquences en Bash et R, versionnées avec Git et documentées avec Quarto, garantissent que chaque résultat reste traçable et reproductible.
+:::
+
+</details>
+:::::::
+
+## Projets & productions
+
+::::: projects
+:::: project-item
+\*\*Projet de stage de Master 2 : Définition du changement des commuanutés trophiques planctoniques en Antlantique Nord selon la disponibilité en nutriments, 2025-2026 \*Axes : Écologie des populations · Analyse de données . Analyses Multivarées\*
+
+Identification des communautés via imagerie *In situ* enregistrés par UVP6, des caméras embarquées sur glidder depuis EcoTaxa. Analyses des communautés selon l'environnement définis par des évènements cycloniques responsables d'une variation en disponibilité de nutriments dans la colonne d'eau. \
+Analyses des comportements migratoires dans la colonne d'eau selon le cycle nycthéméral, analyse des spectres de taille et détermination des flux de carbones.
+
+:::
+
+::: project-item
+\*\*Formation AMEM — Analyses Multivariées en Écologie Marine\*\* · Sorbonne Université, Villefranche, été 2026 \*Axe : Analyse de données\*
+
+Formation aux méthodes d'analyse multivariée appliquées à des jeux de données écologiques marines.
+:::
+::::

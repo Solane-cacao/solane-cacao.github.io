@@ -1,0 +1,582 @@
+body, 
+#quarto-content {
+  background-color: #dbece9 !important; /* Même couleur exacte que le fill="" du SVG */
+  color: #1c2d37;                        /* Couleur du texte (bleu nuit lisible) */
+}
+
+/* Bannière d'en-tête (Hero) */
+.hero-banner {
+  width: 100%;
+  min-height: 100vh;
+  flex-direction: column;
+  justify-content: center;;
+  background: linear-gradient(rgba(0, 30, 50, 0.4), rgba(0, 30, 50, 0.6)), url('banner2.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3;
+}
+
+.hero-overlay {
+  text-align: center;
+  color: #ffffff;
+  padding: 0 1rem;
+}
+
+.hero-overlay h1 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+  color: #ffffff;
+}
+
+.hero-overlay h3 {
+  font-size: 1.3rem;
+  font-weight: 300;
+  color: #e0f2fe;
+}
+
+/* Alignement du contenu principal */
+.content-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 1.5rem 4rem 1.5rem;
+}
+
+/* Photo de profil et colonne gauche */
+.profile-sidebar {
+  text-align: center;
+  padding-right: 1.5rem;
+}
+
+.profile-photo {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  margin-bottom: 1.5rem;
+}
+
+.social-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+/* Ajustements typographiques */
+.profile-bio h2 {
+  margin-top: 0;
+  font-weight: 600;
+  border-bottom: 2px solid #005f73;
+  padding-bottom: 0.4rem;
+  display: inline-block;
+}
+
+.interests-grid ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.interests-grid li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.interests-grid li::before {
+  content: "•";
+  color: #005f73;
+  font-weight: bold;
+  font-size: 1.4rem;
+  position: absolute;
+  left: 0;
+  top: -0.2rem;
+}
+
+.wave-transition {
+width: 100%;
+  height: 80px;
+  overflow: hidden;
+  margin-top: -80px; /* C'EST CETTE LIGNE QUI FUSIONNE LA VAGUE AVEC L'IMAGE */
+  margin-bottom: 60px;
+  position: relative;
+  z-index: 10; /* Force la vague à passer AU-DESSUS de l'image */
+  line-height: 0;
+}
+
+.wave-transition svg {
+  width: 100%;
+  height: 100%;
+  margin: 0, 
+display: block
+}
+
+
+/* Lisibilité des cartes d'exploration */
+.sections-preview .card {
+  background-color: #E8E7B3 !important;
+  border: 3px solid #000700 !important;
+}
+
+.sections-preview .card h3 {
+  color: #000009 !important; /* Titre */
+}
+
+.sections-preview .card p {
+  color: #1d3557 !important; /* Texte de description */
+}
+
+/* --- CARTES GALETS ORGANIK --- */
+
+.sections-preview {
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+/* Style de base de la carte */
+.organic-card {
+  background-color: #fcfaf5 !important; /* Crème clair opaque */
+  color: #132e35 !important; /* Texte sombre et lisible */
+  padding: 2.5rem 2rem !important;
+  border: none !important;
+  box-shadow: 0 10px 25px rgba(19, 46, 53, 0.07) !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Formes asymétriques uniques pour chaque galet */
+.organic-card-1 {
+border-radius: 30% 70% 70% 30% / 80% 20% 80% 20% !important;
+  
+}
+
+.organic-card-2 {
+  border-radius: 57% 43% 41% 59% / 30% 66% 34% 70%  !important;
+}
+
+.organic-card-3 {
+  border-radius: 25% 75% 19% 81% / 30% 15% 85% 70%  !important;
+}
+
+/* Effet de survol doux */
+.organic-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.12);
+}
+
+/* Typographie interne */
+.organic-card h3 {
+  color: #132e35 !important;
+  font-weight: 700;
+  font-size: 1.35rem;
+  margin-bottom: 1rem;
+}
+
+.organic-card p {
+  color: #2c4951 !important;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* Boutons vagues / galets */
+.organic-btn {
+  display: inline-block;
+  background-color: #2a7b88 !important; /* Bleu/vert océan */
+  color: #ffffff !important;
+  padding: 0.65rem 1.4rem;
+  border-radius: 25px 10px 20px 12px !important; /* Forme de vague */
+  text-decoration: none !important;
+  font-weight: 600;
+  font-size: 0.9rem;
+  align-self: flex-start;
+  transition: background-color 0.2s ease, transform 0.2s ease;
+  border: none !important;
+}
+
+.organic-btn:hover {
+  background-color: #2a5a62 !important;
+  color: #ffffff !important;
+  transform: scale(1.04);
+}
+
+/* --- BOUTONS DE CONTACT ÉPURÉS --- */
+.contact-links {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin-top: 1rem;
+}
+
+.contact-btn {
+  display: inline-block;
+  background-color: #3b7b85 !important;
+  color: #ffffff !important;
+  padding: 0.5rem 1.2rem;
+  border-radius: 20px;
+  text-decoration: none !important;
+  font-weight: 500;
+  font-size: 0.88rem;
+  text-align: center;
+  transition: transform 0.2s ease, background-color 0.2s ease;
+  border: none !important;
+}
+
+.contact-btn:hover {
+  background-color: #2a5a62 !important;
+  transform: translateY(-2px);
+}
+
+/* --- TAGS CAPSULES (DOMAINES D'INTÉRÊT) - VERSION AÉRÉE --- */
+.interest-tags,
+.interest-tags p {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 1rem !important; /* Espacement fixe entre chaque bulle */
+  margin: 1.5rem 0 1.5rem 0 !important;
+  padding: 0 !important;
+}
+
+.interest-tags .tag {
+  background-color: #F3DFC3 !important;
+  color: #122c2d !important;
+  padding: 0.65rem 1.25rem !important;
+  border-radius: 30px !important;
+  font-weight: 600 !important;
+  font-size: 0.9rem !important;
+  line-height: 1.2 !important;
+  margin: 0 !important; /* Supprime toute marge individuelle parasite */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06) !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  white-space: nowrap !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+.interest-tags .tag:hover {
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* --- SÉPARATEURS DOUX (REMPLACENT LES TRAITS NOIRS) --- */
+.section-divider {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(0, 95, 115, 0.3), transparent);
+  margin: 3rem 0;
+}
+
+
+
+
+/* --- BARRE DE NAVIGATION CUSTOM (STYLE OCÉAN & GLASSMORPHISM) --- */
+
+/* 1. Style général de la barre */
+.navbar {
+  background-color: rgba(14, 38, 43, 0.82) !important; /* Bleu nuit marin translucide */
+  backdrop-filter: blur(12px); /* Floutage élégant du fond */
+  padding: 0.7rem 2rem !important;
+  border-bottom: 2px solid rgba(145, 204, 180, 0.25) !important; /* Fin liseré d'écume */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+/* 2. Style du nom (à gauche) */
+.navbar-brand {
+  font-weight: 700 !important;
+  color: #fbf8f1 !important; /* Crème doux */
+  letter-spacing: 0.3px;
+  transition: color 0.3s ease !important;
+}
+
+.navbar-brand:hover {
+  color: #91ccb4 !important; /* Vert lagon au survol */
+}
+
+/* 3. Onglets de navigation */
+.navbar-nav .nav-link {
+  color: rgba(251, 248, 241, 0.85) !important;
+  font-weight: 500;
+  padding: 0.45rem 1rem !important;
+  margin: 0 0.2rem;
+  border-radius: 20px !important; /* Forme de pilule */
+  transition: all 0.25s ease-in-out !important;
+}
+
+/* Effet au survol (Hover) */
+.navbar-nav .nav-link:hover {
+  color: #ffffff !important;
+  background-color: rgba(59, 123, 133, 0.5) !important; /* Pillule translucide au survol */
+  transform: translateY(-2px); /* Léger mouvement vers le haut */
+}
+
+/* Onglet de la page active */
+.navbar-nav .nav-link.active {
+  color: #ffffff !important;
+  background-color: #3b7b85 !important; /* Bleu océan plein pour la page en cours */
+  font-weight: 600;
+}
+
+/* 4. Loupe de recherche */
+.quarto-search-button, 
+.quarto-search-button .aa-SubmitButton {
+  color: #fbf8f1 !important;
+  transition: transform 0.2s ease, color 0.2s ease !important;
+}
+
+.quarto-search-button:hover {
+  color: #91ccb4 !important;
+  transform: scale(1.1);
+}
+
+/* Rend la barre flottante et détachée des bords */
+.navbar {
+  width: 95% !important;
+  margin: 10px auto !important;
+  border-radius: 30px !important;
+  border: 1px solid rgba(255, 255, 255, 0.15) !important;
+}
+
+
+.parcours-intro {
+  font-size: 1.15em;
+  font-style: italic;
+  border-left: 3px solid #2a6f97;
+  padding-left: 1em;
+  margin: 1.5em 0;
+  color: #333;
+}
+
+.timeline {
+  position: relative;
+  margin-left: 1em;
+  padding-left: 1.5em;
+  border-left: 2px solid #cbd5e1;
+}
+
+/* Style du sous-titre de timeline */
+.timeline-title {
+  font-size: 1.35rem !important;
+  color: #0b252c !important; /* Bleu sombre de ta palette */
+  font-weight: 700 !important;
+  margin-top: 0 !important;
+  margin-bottom: 1.2rem !important;
+  border-bottom: 2px solid rgba(0, 95, 115, 0.2); /* Léger liseré sous le titre */
+  padding-bottom: 0.4rem;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 2em;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -1.6em;
+  top: 0.3em;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: #2a6f97;
+}
+
+.timeline-item strong {
+  display: block;
+  margin-bottom: 0.2em;
+}
+
+.skills {
+  margin-bottom: 1em;
+}
+
+.skill-tag {
+  display: inline-block;
+  background: #eaf2f8;
+  color: #2a6f97;
+  border-radius: 999px;
+  padding: 0.25em 0.9em;
+  margin: 0.2em 0.3em 0.2em 0;
+  font-size: 0.9em;
+  font-weight: 500;
+}
+
+.vision-intro {
+  font-size: 1.15em;
+  font-style: italic;
+  border-left: 3px solid #2a6f97;
+  padding-left: 1em;
+  margin: 1.5em 0 2.5em 0;
+  color: #333;
+}
+
+
+.project-item {
+  border-bottom: 1px solid #e2e8f0;
+  padding: 1.2em 0;
+}
+
+.project-item strong {
+  display: block;
+  font-size: 1.05em;
+}
+
+.project-item em {
+  color: #64748b;
+  font-size: 0.85em;
+}
+
+.axes-banners {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin: 1.5em 0 2.5em 0;
+}
+
+.axe-banner {
+  position: relative;
+  border-radius: 12px;
+  overflow: hidden;
+  background-size: cover;
+  background-position: center;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.axe-banner:hover {
+  transform: scale(1.01);
+}
+
+/* le bandeau cliquable (résumé) */
+.axe-banner summary {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+  padding: 3.4em 3.2em;      /* était 1.4em 1.6em */
+  min-height: 240px;          /* était 70px */
+  position: relative;
+  z-index: 1;
+}
+
+.axe-banner summary::-webkit-details-marker {
+  display: none;
+}
+
+/* voile sombre pour lisibilité du texte sur l'image */
+.axe-banner summary::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.25) 100%);
+  z-index: -1;
+}
+
+.axe-icon {
+  font-size: 1.4em;
+}
+
+.axe-title {
+  color: #fff;
+  font-weight: 600;
+  font-size: 1.5em;      /* était 1.1em */
+  text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+}
+
+/* petite flèche indiquant que c'est cliquable */
+.axe-banner summary::after {
+  content: "▾";
+  color: #fff;
+  margin-left: auto;
+  transition: transform 0.2s ease;
+}
+
+.axe-banner[open] summary::after {
+  transform: rotate(180deg);
+}
+
+/* le contenu déplié */
+.axe-detail {
+  background: #f8fafc;
+  padding: 1.2em 1.6em;
+  color: #333;
+  line-height: 1.5;
+}
+
+.axes-banners {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2em;
+  margin: 1.5em 0 2.5em 0;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+}
+
+.axe-detail h3 {
+  margin-top: 1.6em;
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid #cbd5e1;
+  color: #1d5470;
+}
+.axe-detail h4 {
+  margin-top: 1.4em;
+  margin-bottom: 0.3em;
+  font-size: 1.05em;
+  font-weight: 700;
+  color: #1d5470;
+  padding-left: 0.6em;
+  border-left: 3px solid #2a6f97;
+}
+
+.contact-intro {
+  font-size: 1.1em;
+  border-left: 3px solid #2a6f97;
+  padding-left: 1em;
+  margin: 1.5em 0 2em 0;
+  color: #333;
+}
+
+.contact-links p {
+  margin: 0.6em 0;
+}
+
+.contact-label {
+  display: inline-block;
+  min-width: 6em;
+  font-weight: 600;
+  color: #1d5470;
+}
+
+.cv-button {
+  display: inline-block;
+  background: #2a6f97;
+  color: #fff !important;
+  padding: 0.7em 1.6em;
+  border-radius: 999px;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 0.5em 0 1.5em 0;
+  transition: background 0.2s ease;
+}
+
+.cv-button:hover {
+  background: #1d5470;
+}
+
+.cv-viewer {
+  width: 100%;
+  height: 80vh;
+  min-height: 500px;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+}

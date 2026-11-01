@@ -1,0 +1,25 @@
+---
+title: "Contact"
+toc: false
+css: styles.css
+---
+
+::: contact-intro
+Actuellement en recherche de thèse ou de poste en écologie marine, conservation, suivi de population et gestion des pêches. N'hésitez pas à me contacter pour toute opportunité ou collaboration.
+:::
+
+::: contact-links
+[Mail]{.contact-label} [solane.cacao\@gmail.com](mailto:solane.cacao@gmail.com)
+
+[Téléphone]{.contact-label} [06 13 66 11 16](tel:+33613661116)
+:::
+
+## Curriculum Vitae
+
+[Télécharger mon CV (PDF)](documents/CV_Solane_Cacao.pdf){.cv-button download="CV_Solane_Cacao.pdf"}
+
+<object class="cv-viewer" data="documents/CV.pdf" type="application/pdf">
+
+<p>Votre navigateur n'affiche pas les PDF. <a href="documents/CV_Solane_Cacao.pdf">Ouvrir le CV</a>.</p>
+
+</object>

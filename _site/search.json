@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Cacao_Project",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "recherche.html",
+    "href": "recherche.html",
+    "title": "Recherche & Travaux",
+    "section": "",
+    "text": "La conservation marine se traduit comme un exercice à la croisée des sciences naturelles et humaines : comprendre les dynamiques écologiques ne suffit pas si l’on ignore les savoirs et pratiques des populations qui en dépendent. La mise en place d’actions ne peut se faire qu’avec l’accord et l’intégration des populations concernées. Mon travail explore l’articulation entre écologie, gestion des pêches et intégration du savoir local, au service d’outils de conservation concrets comme des Aires Marines Protégées (AMP), des suivis de populations, une gestion partagée."
+  },
+  {
+    "objectID": "recherche.html#connectivité-des-récifs",
+    "href": "recherche.html#connectivité-des-récifs",
+    "title": "Projets & Recherche",
+    "section": "",
+    "text": "Prochainement disponible"
+  },
+  {
+    "objectID": "recherche.html#science-et-société",
+    "href": "recherche.html#science-et-société",
+    "title": "Projets & Recherche",
+    "section": "Science et Société",
+    "text": "Science et Société\nProchainement disponible"
+  },
+  {
+    "objectID": "parcours.html",
+    "href": "parcours.html",
+    "title": "Parcours",
+    "section": "",
+    "text": "Mon parcours : Armée, Sciences Humaines, puis Sciences de la Mer, un reflet de mes conviction, comprendre et aider le vivant passe aussi par comprendre les humains qui le côtoient.\n\n\n\nÉquipier commando parachutiste — 1er RPIMa, Bayonne 2017–2018\nUne année en environnement exigeant qui m’a appris la rigueur, le sang-froid et le travail en équipe ainsi que la direction d’équipe. Des repères et une capacité d’accomplir des tâches qui structurent encore ma façon de travailler aujourd’hui.\n\n\nLicence Sciences Humaines — Université de Bordeaux 2019–2022\nComprendre les sociétés et leurs interactions en tant que système intégral : entretiens, questionnaires, analyse de données qualitatives. Couplé en parallèle à des piges pour un journal bordelais qui m’ont appris à condenser l’information et à mener des entretiens.\n\n\nLicence Sciences de la Vie et de la Terre — UBS Vannes 2022–2023\nDeux années ancrées dans l’écologie marine, mais également mes débuts en plongée, qui lié au surf et convoyage à la voile ancrent l’Océan comme vocation.\n\n\nTroisième année de Licence Biologie Cellulaire, option OMICS - Université de Lille 2023-2024\nMaîtriser l’outil moléculaire en écologie. Les concepts en génomique et utilisation de l’outil ADN ainsi que la maitrise des jeux et bases de données m’accordent une compétence de pointe permettant de mieux comprendre les écosystèmes dans leur ensembles et les mécaniques sous-jacentes.\n\n\nMaster Sciences de la Mer — Sorbonne Université 2024–2026\nLa conservation et la compréhension du vivant deviennent le fil conducteur de mes projets.\n\n\nDU Gestion Intégrée Zones Côtières - Université Littoral Côte d’Opale 2026-2027\nRéalisatin de projets de conservation, compréhension intégrative des mécanismes et acteurs en jeux. Lien entre Océan et Société et apport des outils scientifiques dans la prise de décision."
+  },
+  {
+    "objectID": "parcours.html#formation-expériences",
+    "href": "parcours.html#formation-expériences",
+    "title": "Parcours",
+    "section": "",
+    "text": "Mon parcours : Armée, Sciences Humaines, puis Sciences de la Mer, un reflet de mes conviction, comprendre et aider le vivant passe aussi par comprendre les humains qui le côtoient.\n\n\n\nÉquipier commando parachutiste — 1er RPIMa, Bayonne 2017–2018\nUne année en environnement exigeant qui m’a appris la rigueur, le sang-froid et le travail en équipe ainsi que la direction d’équipe. Des repères et une capacité d’accomplir des tâches qui structurent encore ma façon de travailler aujourd’hui.\n\n\nLicence Sciences Humaines — Université de Bordeaux 2019–2022\nComprendre les sociétés et leurs interactions en tant que système intégral : entretiens, questionnaires, analyse de données qualitatives. Couplé en parallèle à des piges pour un journal bordelais qui m’ont appris à condenser l’information et à mener des entretiens.\n\n\nLicence Sciences de la Vie et de la Terre — UBS Vannes 2022–2023\nDeux années ancrées dans l’écologie marine, mais également mes débuts en plongée, qui lié au surf et convoyage à la voile ancrent l’Océan comme vocation.\n\n\nTroisième année de Licence Biologie Cellulaire, option OMICS - Université de Lille 2023-2024\nMaîtriser l’outil moléculaire en écologie. Les concepts en génomique et utilisation de l’outil ADN ainsi que la maitrise des jeux et bases de données m’accordent une compétence de pointe permettant de mieux comprendre les écosystèmes dans leur ensembles et les mécaniques sous-jacentes.\n\n\nMaster Sciences de la Mer — Sorbonne Université 2024–2026\nLa conservation et la compréhension du vivant deviennent le fil conducteur de mes projets.\n\n\nDU Gestion Intégrée Zones Côtières - Université Littoral Côte d’Opale 2026-2027\nRéalisatin de projets de conservation, compréhension intégrative des mécanismes et acteurs en jeux. Lien entre Océan et Société et apport des outils scientifiques dans la prise de décision."
+  },
+  {
+    "objectID": "parcours.html#compétences-techniques",
+    "href": "parcours.html#compétences-techniques",
+    "title": "Parcours",
+    "section": "Compétences techniques",
+    "text": "Compétences techniques\nCompétences de terrain\n\nCAH 1B Permis Côtier UVS pilote drone Photo/Vidéo Questionnaires Navigation à la voile\n\nAnalyse de données\n\nR & Analyses multivariées MATLAB Bio-informatique (Bash) Modélisation\n\nRédaction & Outils\n\nLaTeX Quarto Git Word Excel"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Actuellement en recherche de thèse ou de poste en écologie marine, conservation, suivi de population et gestion des pêches. N’hésitez pas à me contacter pour toute opportunité ou collaboration."
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "Mail : solane.cacao@gmail.com\nTéléphone : 06.13.66.11.16"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "mediation.html",
+    "href": "mediation.html",
+    "title": "Médiation & Société",
+    "section": "",
+    "text": "Prochainement disponible"
+  },
+  {
+    "objectID": "mediation.html#retour-de-terrain-et-dynamiques-locales",
+    "href": "mediation.html#retour-de-terrain-et-dynamiques-locales",
+    "title": "Médiation & Société",
+    "section": "",
+    "text": "Prochainement disponible"
+  },
+  {
+    "objectID": "index.html#bienvenue",
+    "href": "index.html#bienvenue",
+    "title": "Caçao Martins Février Solane",
+    "section": "Bienvenue",
+    "text": "Bienvenue\nAprès un parcours pluridisciplinaire liant un master en Sciences de la Mer et une licence en Sciences Humaines et Sociales, je concentre désormais mes efforts sur des projets où la science se lie à l’humain.\nPassionnée par l’océan, je fais partie de ces surfeurs qui ont décidé de rendre à la mer ce qu’elle leur a apporté, en mobilisant mes compétences en plongée scientifique, travail de terrain, analyses statistiques, outils moléculaires et intégration des contraintes environnementales.\nIntégrant un large panel d’outils, depuis mes travaux sur des campagnes en mer ou encore au Mexique, dans la baie de Californie,je poursuis l’objectif de participer à des projets visant à comprendre les dynamiques marines dans leur ensemble, à contribuer au suivi des populations et à intégrer les savoirs locaux au dialogue en conservation marine."
+  },
+  {
+    "objectID": "index.html#intérêts",
+    "href": "index.html#intérêts",
+    "title": "Caçao Martins Février Solane",
+    "section": "Intérêts",
+    "text": "Intérêts\n\nDynamique et intégrité des zones récifales\nApproches spatiales et réseaux écologiques\nEnjeux de conservation marine\nGouvernance des socio-écosystèmes\nIntégration des savoirs locaux\nMédiation scientifiques et projets publiques"
+  },
+  {
+    "objectID": "index.html#domaines-dintérêts",
+    "href": "index.html#domaines-dintérêts",
+    "title": "Caçao Martins Février Solane",
+    "section": "[Domaines d’intérêts](—",
+    "text": "[Domaines d’intérêts](—\ntitle: “Caçao Martins Février Solane” subtitle: “Écologie Marine & Projets de Conservation” image: photo.jpeg about: template: trestles image-shape: rounded links: - icon: envelope text: Email href: mailto:solane.cacao@gmail.com - icon: linkedin text: LinkedIn href: https://linkedin.com/in/solane-cacao-martins-fevrier-41659b295/ —BienvenueAprès un parcours pluridisciplinaire liant un master en Sciences de la Mer et une licence en Sciences Humaines et Sociales, je concentre désormais mes efforts dans des projets où la science se lie à l’humain.Passionnée par l’Océan, je fais partie de ces surfeurs qui ont décidé de rendre à la mer ce qu’elle leur apporte. En mobilisant mes compétences en plongée scientifique, travail de terrain, analyses statistiques, outils moléculaires et intégration des impacts environnementaux, je poursuis l’objectif de participer à des projets visant à comprendre les dynamiques marines locales, suivre les populations et intégrer les savoirs locaux au dialogue de conservation.Domaines d’intérêtDynamique et intégrité des zones récifalesApproches spatiales et réseaux écologiquesEnjeux de conservation marineGouvernance des socio-écosystèmesIntégration des savoirs locauxMédiation scientifique et projets publics)\n\n[Dynamique et intégrité des zones récifales](— title: “Caçao Martins Février Solane” subtitle: “Écologie Marine & Projets de Conservation” image: photo.jpeg about: template: trestles image-shape: rounded links: - icon: envelope text: Email href: mailto:solane.cacao@gmail.com - icon: linkedin text: LinkedIn href: https://linkedin.com/in/solane-cacao-martins-fevrier-41659b295/ —BienvenueAprès un parcours pluridisciplinaire liant un master en Sciences de la Mer et une licence en Sciences Humaines et Sociales, je concentre désormais mes efforts dans des projets où la science se lie à l’humain.Passionnée par l’Océan, je fais partie de ces surfeurs qui ont décidé de rendre à la mer ce qu’elle leur apporte. En mobilisant mes compétences en plongée scientifique, travail de terrain, analyses statistiques, outils moléculaires et intégration des impacts environnementaux, je poursuis l’objectif de participer à des projets visant à comprendre les dynamiques marines locales, suivre les populations et intégrer les savoirs locaux au dialogue de conservation.Domaines d’intérêtDynamique et intégrité des zones récifalesApproches spatiales et réseaux écologiquesEnjeux de conservation marineGouvernance des socio-écosystèmesIntégration des savoirs locauxMédiation scientifique et projets publics)\n[Approches spatiales et réseaux écologiques](— title: “Caçao Martins Février Solane” subtitle: “Écologie Marine & Projets de Conservation” image: photo.jpeg about: template: trestles image-shape: rounded links: - icon: envelope text: Email href: mailto:solane.cacao@gmail.com - icon: linkedin text: LinkedIn href: https://linkedin.com/in/solane-cacao-martins-fevrier-41659b295/ —BienvenueAprès un parcours pluridisciplinaire liant un master en Sciences de la Mer et une licence en Sciences Humaines et Sociales, je concentre désormais mes efforts dans des projets où la science se lie à l’humain.Passionnée par l’Océan, je fais partie de ces surfeurs qui ont décidé de rendre à la mer ce qu’elle leur apporte. En mobilisant mes compétences en plongée scientifique, travail de terrain, analyses statistiques, outils moléculaires et intégration des impacts environnementaux, je poursuis l’objectif de participer à des projets visant à comprendre les dynamiques marines locales, suivre les populations et intégrer les savoirs locaux au dialogue de conservation.Domaines d’intérêtDynamique et intégrité des zones récifalesApproches spatiales et réseaux écologiquesEnjeux de conservation marineGouvernance des socio-écosystèmesIntégration des savoirs locauxMédiation scientifique et projets publics)\n[Enjeux de conservation marine](— title: “Caçao Martins Février Solane” subtitle: “Écologie Marine & Projets de Conservation” image: photo.jpeg about: template: trestles image-shape: rounded links: - icon: envelope text: Email href: mailto:solane.cacao@gmail.com - icon: linkedin text: LinkedIn href: https://linkedin.com/in/solane-cacao-martins-fevrier-41659b295/ —BienvenueAprès un parcours pluridisciplinaire liant un master en Sciences de la Mer et une licence en Sciences Humaines et Sociales, je concentre désormais mes efforts dans des projets où la science se lie à l’humain.Passionnée par l’Océan, je fais partie de ces surfeurs qui ont décidé de rendre à la mer ce qu’elle leur apporte. En mobilisant mes compétences en plongée scientifique, travail de terrain, analyses statistiques, outils moléculaires et intégration des impacts environnementaux, je poursuis l’objectif de participer à des projets visant à comprendre les dynamiques marines locales, suivre les populations et intégrer les savoirs locaux au dialogue de conservation.Domaines d’intérêtDynamique et intégrité des zones récifalesApproches spatiales et réseaux écologiquesEnjeux de conservation marineGouvernance des socio-écosystèmesIntégration des savoirs locauxMédiation scientifique et projets publics)\n[Gouvernance des socio-écosystèmes](— title: “Caçao Martins Février Solane” subtitle: “Écologie Marine & Projets de Conservation” image: photo.jpeg about: template: trestles image-shape: rounded links: - icon: envelope text: Email href: mailto:solane.cacao@gmail.com - icon: linkedin text: LinkedIn href: https://linkedin.com/in/solane-cacao-martins-fevrier-41659b295/ —BienvenueAprès un parcours pluridisciplinaire liant un master en Sciences de la Mer et une licence en Sciences Humaines et Sociales, je concentre désormais mes efforts dans des projets où la science se lie à l’humain.Passionnée par l’Océan, je fais partie de ces surfeurs qui ont décidé de rendre à la mer ce qu’elle leur apporte. En mobilisant mes compétences en plongée scientifique, travail de terrain, analyses statistiques, outils moléculaires et intégration des impacts environnementaux, je poursuis l’objectif de participer à des projets visant à comprendre les dynamiques marines locales, suivre les populations et intégrer les savoirs locaux au dialogue de conservation.Domaines d’intérêtDynamique et intégrité des zones récifalesApproches spatiales et réseaux écologiquesEnjeux de conservation marineGouvernance des socio-écosystèmesIntégration des savoirs locauxMédiation scientifique et projets publics)\n[Intégration des savoirs locaux](— title: “Caçao Martins Février Solane” subtitle: “Écologie Marine & Projets de Conservation” image: photo.jpeg about: template: trestles image-shape: rounded links: - icon: envelope text: Email href: mailto:solane.cacao@gmail.com - icon: linkedin text: LinkedIn href: https://linkedin.com/in/solane-cacao-martins-fevrier-41659b295/ —BienvenueAprès un parcours pluridisciplinaire liant un master en Sciences de la Mer et une licence en Sciences Humaines et Sociales, je concentre désormais mes efforts dans des projets où la science se lie à l’humain.Passionnée par l’Océan, je fais partie de ces surfeurs qui ont décidé de rendre à la mer ce qu’elle leur apporte. En mobilisant mes compétences en plongée scientifique, travail de terrain, analyses statistiques, outils moléculaires et intégration des impacts environnementaux, je poursuis l’objectif de participer à des projets visant à comprendre les dynamiques marines locales, suivre les populations et intégrer les savoirs locaux au dialogue de conservation.Domaines d’intérêtDynamique et intégrité des zones récifalesApproches spatiales et réseaux écologiquesEnjeux de conservation marineGouvernance des socio-écosystèmesIntégration des savoirs locauxMédiation scientifique et projets publics)\n[Médiation scientifiques et projets publiques](— title: “Caçao Martins Février Solane” subtitle: “Écologie Marine & Projets de Conservation” image: photo.jpeg about: template: trestles image-shape: rounded links: - icon: envelope text: Email href: mailto:solane.cacao@gmail.com - icon: linkedin text: LinkedIn href: https://linkedin.com/in/solane-cacao-martins-fevrier-41659b295/ —BienvenueAprès un parcours pluridisciplinaire liant un master en Sciences de la Mer et une licence en Sciences Humaines et Sociales, je concentre désormais mes efforts dans des projets où la science se lie à l’humain.Passionnée par l’Océan, je fais partie de ces surfeurs qui ont décidé de rendre à la mer ce qu’elle leur apporte. En mobilisant mes compétences en plongée scientifique, travail de terrain, analyses statistiques, outils moléculaires et intégration des impacts environnementaux, je poursuis l’objectif de participer à des projets visant à comprendre les dynamiques marines locales, suivre les populations et intégrer les savoirs locaux au dialogue de conservation.Domaines d’intérêtDynamique et intégrité des zones récifalesApproches spatiales et réseaux écologiquesEnjeux de conservation marineGouvernance des socio-écosystèmesIntégration des savoirs locauxMédiation scientifique et projets publics)"
+  },
+  {
+    "objectID": "index.html#domaines-dintérêt",
+    "href": "index.html#domaines-dintérêt",
+    "title": "Caçao Martins Février Solane",
+    "section": "Domaines d’intérêt",
+    "text": "Domaines d’intérêt\n\nDynamique & intégrité des zones récifales Approches spatiales & réseaux écologiques Enjeux de conservation marine Compréhension intégrale des écosystèmes Intégration des savoirs locaux Médiation scientifique & projets publics"
+  },
+  {
+    "objectID": "index.html#projets",
+    "href": "index.html#projets",
+    "title": "Caçao Martins Février Solane",
+    "section": "Projets",
+    "text": "Projets\n::\nPour accéder aux différents projets auquel j’ai pu participer et voir plus de détail :"
+  },
+  {
+    "objectID": "index.html#une-ouverture-sur-locéan",
+    "href": "index.html#une-ouverture-sur-locéan",
+    "title": "Caçao Martins Février Solane",
+    "section": "Une Ouverture sur l’Océan",
+    "text": "Une Ouverture sur l’Océan"
+  },
+  {
+    "objectID": "index.html#travaux",
+    "href": "index.html#travaux",
+    "title": "Caçao Martins Février Solane",
+    "section": "Travaux",
+    "text": "Travaux"
+  },
+  {
+    "objectID": "index.html#explorer-le-site",
+    "href": "index.html#explorer-le-site",
+    "title": "Caçao Martins Février Solane",
+    "section": "Explorer le site",
+    "text": "Explorer le site\n\n\nParcours & Projets\nMon profil, mes compétences de terrain (plongée scientifique, campagnes en mer) et le détail des projets auxquels je participe.\nDécouvrir mes projets\n\n\nMédiation & Société\nVulgarisation scientifique, intégration des savoirs locaux et autres éléments à la croisée de l’art et de l’Océan.\nExplorer\n\n\nRecherche & Travaux\nMes synthèses d’études, posters scientifiques, mémoires, ainsi que les démarches méthodologiques et outils (R, Bash, biologie moléculaire) mobilisés.\nConsulter mes travaux"
+  },
+  {
+    "objectID": "mediation.html#médias-et-open-science",
+    "href": "mediation.html#médias-et-open-science",
+    "title": "Médiation & Société",
+    "section": "",
+    "text": "Prochainement disponible"
+  },
+  {
+    "objectID": "mediation.html#un-monde-dimage",
+    "href": "mediation.html#un-monde-dimage",
+    "title": "Médiation & Société",
+    "section": "Un monde d’image",
+    "text": "Un monde d’image"
+  },
+  {
+    "objectID": "parcours.html#formation-expériences-1",
+    "href": "parcours.html#formation-expériences-1",
+    "title": "Parcours & Projets",
+    "section": "Formation & Expériences",
+    "text": "Formation & Expériences\n\nMon parcours — armée, sciences humaines, puis sciences de la mer — reflète une conviction : comprendre le vivant marin passe aussi par comprendre les humains qui l’exploitent.\n\n\n\nÉquipier commando parachutiste — 1er RPIMa, Bayonne · 2019–2020\nUne année en environnement exigeant qui m’a appris la rigueur, le sang-froid et le travail en équipe — des repères qui structurent encore ma façon de travailler aujourd’hui.\n\n\nLicence Sciences Humaines — Université de Bordeaux · 2020–2022\nComprendre les sociétés et leurs interactions : entretiens, questionnaires, analyse de données qualitatives. En parallèle, des piges pour un journal bordelais m’ont appris à condenser l’information et à mener des entretiens.\n\n\nLicence Sciences de la Vie et de la Terre — UBS Vannes · 2022–2024\nDeux années ancrées dans l’écologie marine, entre plongée, surf et convoyage à la voile — l’Océan devient ma vocation. Troisième année en Biologie Cellulaire, option OMICS, pour maîtriser l’outil moléculaire en écologie.\n\n\nMaster Sciences de la Mer — Sorbonne Université · 2024–2026\nLa conservation et la compréhension du vivant marin deviennent le fil conducteur de mes projets."
+  },
+  {
+    "objectID": "parcours.html#compétences-techniques-1",
+    "href": "parcours.html#compétences-techniques-1",
+    "title": "Parcours & Projets",
+    "section": "Compétences techniques",
+    "text": "Compétences techniques\nAnalyse de données ::: {.skills} R MATLAB Bash :::\nRédaction & Outils ::: {.skills} LaTeX Quarto Git :::"
+  },
+  {
+    "objectID": "recherche.html#axes-de-recherche",
+    "href": "recherche.html#axes-de-recherche",
+    "title": "Recherche & Travaux",
+    "section": "Axes de recherche",
+    "text": "Axes de recherche\n\n\n\nÉcologie des populations & dynamiques spatiales\n\n\nComprendre la répartition, l’abondance, la diversité et les dynamiques spatiales d’un milieu permet d’en saisir les mécanismes et d’anticiper la façon dont des pressions extérieures (pêche, aménagement du littoral, changement climatique) sont susceptibles de l’affecter. Aucun outil n’étant exhaustif, les approches suivantes se complètent :\n\nObservation directe\n\nUVS / UVC : comptages visuels en plongée\nComptage direct réalisé par des plongeurs sur le terrain (Underwater Visual Survey / Census). Il donne des métriques d’abondance, de diversité et éventuellement de taille des individus. Méthode simple et éprouvée, elle dépend cependant de la profondeur, du temps de plongée et de l’observateur. Elle sous-estime les espèces craintives ou rares, et les grands prédateurs évitent souvent les plongeurs.\n\n\nBRUVS / stéréo-BRUVS (caméras appâtées)\nLes Baited Remote Underwater Video Systems sont bien adaptés aux grands prédateurs mobiles comme les requins et les raies, que les plongeurs voient peu et dont l’observation reste complexe. Les stéréo-caméras donnent aussi la taille. Le biais vient de l’appât, qui attire ou exclut certaines espèces : les données obtenues sont donc orientées vers certains groupes.\n\n\nDrones télépilotés et ROV (Remotely Operated Vehicles)\nSurvoler une zone par drone permet de réaliser des comptages en surface (requins, raies, tortues en eaux claires) et de cartographier des habitats. Les ROV offrent un bon visuel des zones trop profondes ou dangereuses pour la plongée, mais présentent des biais d’observation comparables à ceux de l’observation directe (évitement, détectabilité).\n\n\n\nApproches moléculaires\n\nADN environnemental (eDNA)\nL’ADN environnemental permet d’étudier un milieu de façon non invasive : grâce à un échantillon d’eau, on récupère l’ADN laissé par les organismes sans les capturer ni même les observer. Il est particulièrement utile pour les espèces rares, discrètes ou difficiles d’accès.\nDeux stratégies coexistent. La détection ciblée (qPCR, ddPCR) recherche une espèce précise à partir d’un gène cible : très sensible, elle convient aux espèces protégées ou invasives. À l’inverse, le métabarcoding (ci-dessous) permet d’inventorier l’ensemble d’une communauté sans a priori sur les espèces présentes.\nCet outil a ses limites. Il repose sur des bases de données génomiques de référence suffisamment complètes pour couvrir la diversité étudiée, ce qui n’est pas toujours le cas. La qualité de l’échantillonnage est également déterminante : l’ADN se dégradant et se dispersant dans l’eau, des protocoles rigoureux sont indispensables. Enfin, il ne permet pas d’obtenir des mesures d’abondance fiables.\n\n\nMétabarcoding\nLe métabarcoding consiste à amplifier par PCR un marqueur génétique commun à un large groupe d’organismes, puis à séquencer l’ensemble des fragments obtenus. Ces séquences, comparées aux bases de référence, permettent d’identifier les espèces présentes, ce qui donne accès à la richesse et à la composition d’une communauté.\nLe nombre de lectures fournit une information semi-quantitative sur les abondances relatives, mais elle reste à interpréter avec prudence : l’efficacité d’amplification varie selon les espèces et les amorces utilisées. À cela s’ajoutent les risques de faux positifs (contaminations) et de faux négatifs (espèces présentes mais non détectées), que l’on limite grâce aux réplicats, aux témoins négatifs et à des modèles statistiques qui tiennent compte de la détectabilité.\n\n\nRADseq (Restriction-site Associated DNA sequencing)\nLe RADseq repose sur des enzymes de restriction qui découpent le génome en fragments. On séquence uniquement ceux situés à proximité des sites de coupure, ce qui donne accès à plusieurs milliers de marqueurs SNP (Single Nucleotide Polymorphism) répartis sur tout le génome, sans nécessiter de génome de référence.\nOn travaille ici sur l’ADN d’individus (fragment de nageoire, biopsie). La question posée est celle de la structure des populations : stocks distincts, connectivité entre sites, flux de gènes et éventuellement signatures d’adaptation locale. Ces informations sont précieuses pour dimensionner un réseau d’aires protégées ou définir des unités de gestion cohérentes avec la biologie de l’espèce.\nLa méthode demande un ADN de bonne qualité, ce qui impose des protocoles de conservation rigoureux. L’interprétation dépend en outre fortement du plan d’échantillonnage (nombre d’individus et de sites, période).\n\n\n\nSuivi d’individus\nSuivre des individus permet de répondre à des questions que les inventaires ne traitent pas : où vivent-ils, où se déplacent-ils, combien sont-ils et combien survivent.\n\nCapture-recapture\nCette méthode permet d’estimer l’abondance, la survie et le recrutement à partir de la fréquence à laquelle les mêmes individus sont réobservés. Le marquage peut être physique (bagues, marques externes) ou naturel. Les estimations dépendent de la probabilité de recapture, qui doit être modélisée.\n\n\nPhoto-identification\nLes motifs propres à chaque individu suffisent à le reconnaître sans le capturer : aileron dorsal d’un requin ou d’un dauphin, nageoire caudale d’une baleine, taches du requin-baleine ou de la raie manta, écailles faciales d’une tortue marine. La fiabilité des estimations dépend de la qualité des photos et de l’effort d’observation.\n\n\nTélémétrie acoustique\nElle consiste à implanter ou fixer un émetteur sur l’animal, détecté par un réseau de récepteurs fixes. On obtient de longues séries de présence et de déplacements, ce qui en fait un outil de choix pour évaluer l’usage d’une aire protégée ou la connectivité entre sites. La portée de détection est de quelques centaines de mètres selon les conditions, et l’information se limite aux zones équipées.\n\n\nBalises satellites et biologging\nCes outils suivent les animaux sur de grandes distances, y compris hors de tout réseau de récepteurs. Le compromis se fait sur la résolution spatiale, plus faible pour certaines balises, et sur le coût, qui limite le nombre d’individus équipés.\n\n\n\nAcoustique\n\nHydroacoustique active\nDes échosondeurs ou sonars émettent un signal et analysent son écho pour détecter et quantifier ce qui se trouve dans la colonne d’eau. Cette méthode est employée pour estimer la biomasse et la distribution de poissons pélagiques ou de bancs, sur de vastes surfaces et de façon continue. L’identification des espèces reste son point faible : elle nécessite des validations par pêches expérimentales ou observations directes.\n\n\nAcoustique passive (PAM)\nLe Passive Acoustic Monitoring consiste à écouter. Des hydrophones autonomes, déployés pendant des semaines ou des mois, enregistrent les sons produits par les cétacés (chants, clics d’écholocation), par certains poissons (chorus de reproduction, agrégations de ponte) et par les activités humaines (trafic maritime, bruit). La méthode est non invasive et adaptée aux suivis de long terme, mais elle donne surtout la présence et l’activité plutôt que l’abondance. Elle dépend aussi de bibliothèques de sons de référence, incomplètes pour beaucoup d’espèces, et produit de très gros volumes de données à traiter.\n\n\n\n\n\n\nSavoir local & gestion partagée\n\n\nLes pêcheurs et les communautés littorales détiennent des connaissances fines (zones, saisons, évolution des stocks, comportement des espèces) sur des échelles de temps et d’espace que les suivis scientifiques couvrent rarement. Les intégrer améliore à la fois la qualité des données et l’acceptation des mesures de gestion.\n\nRecueillir les savoirs\n\nEntretiens, enquêtes et cartographie participative\nEntretiens semi-directifs et questionnaires permettent de documenter les savoirs écologiques locaux : zones de pêche, frayères, changements observés, rencontres avec des espèces sensibles. La cartographie participative, où les pêcheurs localisent eux-mêmes ces éléments sur une carte, rend ces informations directement exploitables en SIG. Ces données comportent des biais (mémoire, représentativité, confiance envers l’enquêteur) et gagnent à être croisées avec des données scientifiques.\n\n\nScience participative\nCarnets de pêche volontaires, signalements d’observations ou marquages participatifs multiplient les points de collecte à faible coût et impliquent directement les usagers dans la production de connaissances.\n\n\n\nCo-construire la gestion\n\nCogestion et gouvernance partagée\nAssocier les usagers à la définition des zonages, des règles d’accès et des dispositifs de suivi améliore leur légitimité et leur respect. Ce principe se retrouve dans des modèles très différents, des prud’homies de pêche méditerranéennes aux aires marines gérées localement (LMMA) du Pacifique. Cela suppose une présence de terrain dans la durée, la restitution des résultats aux communautés et la reconnaissance de savoirs qui ne sont ni homogènes ni exempts de rapports de force au sein d’un même groupe d’usagers.\n\n\n\n\n\n\nAires Marines Protégées & outils de conservation\n\n\nUne aire marine protégée n’est utile que si elle est bien conçue, effectivement gérée et évaluée. L’enjeu est de passer d’espaces protégés sur le papier à des outils dont l’efficacité est mesurée.\n\nConcevoir\n\nPlanification systématique de la conservation\nElle vise à identifier les zones prioritaires (habitats, nourriceries, agrégations de reproduction, corridors de déplacement) en minimisant le coût pour les usagers. Des outils comme Marxan ou prioritizr combinent les données de distribution des espèces, de connectivité et de pression humaine, ce qui fait le lien direct avec les méthodes d’écologie des populations décrites plus haut.\n\n\nNiveaux et formes de protection\nRéserves intégrales, zones de protection forte, cantonnements, fermetures saisonnières, restrictions d’engins : chaque outil répond à un objectif différent. L’efficacité repose aussi sur la connectivité entre sites, d’où l’intérêt de raisonner en réseau plutôt qu’en aires isolées.\n\n\n\nÉvaluer\n\nEfficacité et gestion adaptative\nLes suivis comparent l’état du milieu avant et après la mise en place de la mesure, à l’intérieur et à l’extérieur de la zone (approche BACI), à partir d’indicateurs comme la biomasse, la richesse ou la taille des individus. Ils permettent aussi d’observer l’effet réserve et le débordement vers les zones adjacentes. Le principal écueil reste l’écart entre la protection réglementaire et sa mise en œuvre : sans moyens de surveillance et de suivi de long terme, la réglementation seule ne garantit pas l’effet attendu.\n\n\n\n\n\n\nAnalyse de données & modélisation\n\n\nLes données écologiques sont hétérogènes, bruitées et incomplètes. Il s’agit d’en tirer des indicateurs clairs, cartographiables et assortis d’une mesure d’incertitude, exploitables par les gestionnaires.\n\nAnalyses multivariées\nOrdinations (ACP, PCoA, NMDS, RDA) et tests comme la PERMANOVA permettent de décrire la structure des communautés et d’identifier les facteurs qui la façonnent (habitat, pression de pêche, protection). Ils s’appliquent aussi bien aux comptages en plongée qu’aux données de métabarcoding.\n\n\nModélisation\nLes modèles de distribution d’espèces (GAM, GLMM, MaxEnt, BRT) relient les observations aux variables environnementales pour prédire où une espèce est susceptible de se trouver. Les modèles d’occupancy corrigent la détectabilité imparfaite, précieux pour l’ADNe ou les caméras appâtées. Les modèles de mouvement et de capture-recapture exploitent quant à eux les données de suivi d’individus.\n\n\nAnalyse spatiale et reproductibilité\nLes SIG (QGIS, packages R comme sf et terra) servent à cartographier les densités, les zones de chevauchement entre espèces et activités humaines, ou les hotspots à protéger en priorité. Les chaînes de traitement de séquences en Bash et R, versionnées avec Git et documentées avec Quarto, garantissent que chaque résultat reste traçable et reproductible."
+  },
+  {
+    "objectID": "recherche.html#projets-productions",
+    "href": "recherche.html#projets-productions",
+    "title": "Recherche & Travaux",
+    "section": "Projets & productions",
+    "text": "Projets & productions\n\n\n**Projet de stage de Master 2 : Définition du changement des commuanutés trophiques planctoniques en Antlantique Nord selon la disponibilité en nutriments, 2025-2026 *Axes : Écologie des populations · Analyse de données . Analyses Multivarées*\nIdentification des communautés via imagerie In situ enregistrés par UVP6, des caméras embarquées sur glidder depuis EcoTaxa. Analyses des communautés selon l’environnement définis par des évènements cycloniques responsables d’une variation en disponibilité de nutriments dans la colonne d’eau.\nAnalyses des comportements migratoires dans la colonne d’eau selon le cycle nycthéméral, analyse des spectres de taille et détermination des flux de carbones.\n\n\n**Formation AMEM — Analyses Multivariées en Écologie Marine** · Sorbonne Université, Villefranche, été 2026 *Axe : Analyse de données*\nFormation aux méthodes d’analyse multivariée appliquées à des jeux de données écologiques marines.\n\n\n:::::"
+  },
+  {
+    "objectID": "contact.html#curriculum-vitae",
+    "href": "contact.html#curriculum-vitae",
+    "title": "Contact",
+    "section": "Curriculum Vitae",
+    "text": "Curriculum Vitae\nTélécharger mon CV (PDF)\n\n\nVotre navigateur n’affiche pas les PDF. Ouvrir le CV."
+  }
+]

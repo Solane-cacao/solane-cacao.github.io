@@ -1,0 +1,71 @@
+---
+title: "Parcours"
+toc: false
+css: styles.css
+---
+
+## Formation & Expériences
+
+::: {.parcours-intro}
+Mon parcours : Armée, Sciences Humaines, puis Sciences de la Mer, un reflet de mes conviction, comprendre et aider le vivant passe aussi par comprendre les humains qui le côtoient.
+:::
+
+::: {.timeline}
+
+::: {.timeline-item}
+**Équipier commando parachutiste — 1er RPIMa, Bayonne** 2017–2018
+
+Une année en environnement exigeant qui m'a appris la rigueur, le sang-froid et le travail en équipe ainsi que la direction d'équipe. Des repères et une capacité d'accomplir des tâches qui structurent encore ma façon de travailler aujourd'hui.
+:::
+
+::: {.timeline-item}
+**Licence Sciences Humaines — Université de Bordeaux** 2019–2022
+
+Comprendre les sociétés et leurs interactions en tant que système intégral : entretiens, questionnaires, analyse de données qualitatives. Couplé en parallèle à des piges pour un journal bordelais qui m'ont appris à condenser l'information et à mener des entretiens.
+:::
+
+::: {.timeline-item}
+**Licence Sciences de la Vie et de la Terre — UBS Vannes** 2022–2023
+
+Deux années ancrées dans l'écologie marine, mais également mes débuts en plongée, qui lié au surf et convoyage à la voile ancrent l'Océan comme vocation. 
+:::
+
+::: {.timeline-item}
+**Troisième année de Licence Biologie Cellulaire, option OMICS - Université de Lille** 2023-2024
+
+Maîtriser l'outil moléculaire en écologie. Les concepts en génomique et utilisation de l'outil ADN ainsi que la maitrise des jeux et bases de données m'accordent une compétence de pointe permettant de mieux comprendre les écosystèmes dans leur ensembles et les mécaniques sous-jacentes.
+:::
+
+::: {.timeline-item}
+**Master Sciences de la Mer — Sorbonne Université** 2024–2026
+
+La conservation et la compréhension du vivant deviennent le fil conducteur de mes projets.
+:::
+
+::: {.timeline-item}
+**DU Gestion Intégrée Zones Côtières - Université Littoral Côte d'Opale** 2026-2027
+
+Réalisatin de projets de conservation, compréhension intégrative des mécanismes et acteurs en jeux. Lien entre Océan et Société et apport des outils scientifiques dans la prise de décision.
+:::
+
+:::
+
+## Compétences techniques
+
+**Compétences de terrain**
+
+::: {.skills}
+[CAH 1B]{.skill-tag} [Permis Côtier]{.skill-tag} [UVS]{.skill-tag} [pilote drone]{.skill-tag} [Photo/Vidéo]{.skill-tag} [Questionnaires]{.skill-tag} [Navigation à la voile]{.skill-tag}
+:::
+
+**Analyse de données**
+
+::: {.skills}
+[R & Analyses multivariées]{.skill-tag} [MATLAB]{.skill-tag} [Bio-informatique (Bash)]{.skill-tag} [Modélisation]{.skill-tag}
+:::
+
+**Rédaction & Outils**
+
+::: {.skills}
+[LaTeX]{.skill-tag} [Quarto]{.skill-tag} [Git]{.skill-tag} [Word]{.skill-tag} [Excel]{.skill-tag}
+:::
